@@ -1,2 +1,4 @@
 # hello-world
-SCM W6
+
+Wan Shafiq Bin Wan Ahmad Sufian
+Final Year Student
